@@ -1,0 +1,30 @@
+========================================
+           SIMPLE CALCULATOR            
+========================================
+
+Select an operation:
+  1. Add (+)
+  2. Subtract (-)
+  3. Multiply (*)
+  4. Divide (/)
+Enter choice (1-4): Enter first number: Enter second number: 
+Result: 12.0 + 8.0 = 20.0
+
+Perform another calculation? (y/n): 
+Select an operation:
+  1. Add (+)
+  2. Subtract (-)
+  3. Multiply (*)
+  4. Divide (/)
+Enter choice (1-4): Enter first number: Enter second number: Error: Cannot divide by zero.
+
+Perform another calculation? (y/n): 
+Select an operation:
+  1. Add (+)
+  2. Subtract (-)
+  3. Multiply (*)
+  4. Divide (/)
+Enter choice (1-4): Enter first number: Enter second number: 
+Result: 6.0 * 7.0 = 42.0
+
+Perform another calculation? (y/n): Thanks for using the calculator. Goodbye!
