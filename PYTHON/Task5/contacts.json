@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Priya Sharma",
+    "phone": "9876500000",
+    "email": "priya@example.com",
+    "address": "Mumbai, India"
+  },
+  {
+    "name": "Rahul Verma",
+    "phone": "9123456780",
+    "email": "rahul@example.com",
+    "address": "Delhi, India"
+  }
+]

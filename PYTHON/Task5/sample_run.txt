@@ -1,0 +1,107 @@
+
+==========================================
+               CONTACT BOOK               
+==========================================
+Manage your contacts easily. Data is saved automatically.
+
+1. View all contacts
+2. Add contact
+3. Search contact
+4. Update contact
+5. Delete contact
+6. Exit
+
+Choose an option (1-6): 
+Enter new contact details:
+Name: Phone number: Email: Address: Contact "Priya Sharma" added.
+
+1. View all contacts
+2. Add contact
+3. Search contact
+4. Update contact
+5. Delete contact
+6. Exit
+
+Choose an option (1-6): 
+Enter new contact details:
+Name: Phone number: Email: Address: Contact "Rahul Verma" added.
+
+1. View all contacts
+2. Add contact
+3. Search contact
+4. Update contact
+5. Delete contact
+6. Exit
+
+Choose an option (1-6): 
+==========================================
+               CONTACT LIST               
+==========================================
+1. Priya Sharma  —  9876543210
+2. Rahul Verma  —  9123456780
+==========================================
+
+1. View all contacts
+2. Add contact
+3. Search contact
+4. Update contact
+5. Delete contact
+6. Exit
+
+Choose an option (1-6): Search by name or phone number: 
+==========================================
+         SEARCH RESULTS (1 found)         
+==========================================
+------------------------------------------
+Name:    Priya Sharma
+Phone:   9876543210
+Email:   priya@example.com
+Address: Mumbai, India
+------------------------------------------
+
+1. View all contacts
+2. Add contact
+3. Search contact
+4. Update contact
+5. Delete contact
+6. Exit
+
+Choose an option (1-6): 
+==========================================
+               CONTACT LIST               
+==========================================
+1. Priya Sharma  —  9876543210
+2. Rahul Verma  —  9123456780
+==========================================
+Enter contact number: ------------------------------------------
+Name:    Priya Sharma
+Phone:   9876543210
+Email:   priya@example.com
+Address: Mumbai, India
+------------------------------------------
+Leave a field blank to keep its current value.
+Name [Priya Sharma]: Phone [9876543210]: Email [priya@example.com]: Address [Mumbai, India]: Contact updated.
+
+1. View all contacts
+2. Add contact
+3. Search contact
+4. Update contact
+5. Delete contact
+6. Exit
+
+Choose an option (1-6): 
+==========================================
+               CONTACT LIST               
+==========================================
+1. Priya Sharma  —  9876500000
+2. Rahul Verma  —  9123456780
+==========================================
+
+1. View all contacts
+2. Add contact
+3. Search contact
+4. Update contact
+5. Delete contact
+6. Exit
+
+Choose an option (1-6): Goodbye! Your contacts have been saved.

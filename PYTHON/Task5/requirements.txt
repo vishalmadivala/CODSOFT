@@ -1,0 +1,3 @@
+# Task 5 - Contact Book
+# No external dependencies required.
+# Uses only Python's standard library (json, os).
