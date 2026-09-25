@@ -1,0 +1,78 @@
+
+========================================
+             TO-DO LIST APP             
+========================================
+Manage your tasks efficiently. Data is saved automatically.
+
+1. View tasks
+2. Add task
+3. Mark task as complete
+4. Update task
+5. Delete task
+6. Exit
+
+Choose an option (1-6): Enter the new task: Added: "Buy groceries"
+
+1. View tasks
+2. Add task
+3. Mark task as complete
+4. Update task
+5. Delete task
+6. Exit
+
+Choose an option (1-6): Enter the new task: Added: "Finish Python assignment"
+
+1. View tasks
+2. Add task
+3. Mark task as complete
+4. Update task
+5. Delete task
+6. Exit
+
+Choose an option (1-6): 
+========================================
+            YOUR TO-DO LIST             
+========================================
+1. [ ] Buy groceries  (added 2026-09-25 11:32)
+2. [ ] Finish Python assignment  (added 2026-09-25 11:32)
+========================================
+
+1. View tasks
+2. Add task
+3. Mark task as complete
+4. Update task
+5. Delete task
+6. Exit
+
+Choose an option (1-6): 
+========================================
+            YOUR TO-DO LIST             
+========================================
+1. [ ] Buy groceries  (added 2026-09-25 11:32)
+2. [ ] Finish Python assignment  (added 2026-09-25 11:32)
+========================================
+Enter task number: Marked complete: "Finish Python assignment"
+
+1. View tasks
+2. Add task
+3. Mark task as complete
+4. Update task
+5. Delete task
+6. Exit
+
+Choose an option (1-6): 
+========================================
+            YOUR TO-DO LIST             
+========================================
+1. [ ] Buy groceries  (added 2026-09-25 11:32)
+2. [X] Finish Python assignment  (added 2026-09-25 11:32)
+========================================
+
+1. View tasks
+2. Add task
+3. Mark task as complete
+4. Update task
+5. Delete task
+6. Exit
+
+Choose an option (1-6): Goodbye! Your tasks have been saved.
