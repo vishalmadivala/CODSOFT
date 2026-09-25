@@ -1,0 +1,16 @@
+========================================
+           PASSWORD GENERATOR           
+========================================
+Enter the desired password length: 
+Choose which character types to include:
+Include lowercase letters (a-z)? (Y/n): Include uppercase letters (A-Z)? (Y/n): Include digits (0-9)? (Y/n): Include symbols (!@#$...)? (Y/n): 
+Generated Password:
+  ){Km}KhRyDFHaGm1
+
+Generate another password? (y/n): Enter the desired password length: 
+Choose which character types to include:
+Include lowercase letters (a-z)? (Y/n): Include uppercase letters (A-Z)? (Y/n): Include digits (0-9)? (Y/n): Include symbols (!@#$...)? (Y/n): 
+Generated Password:
+  &6#%4!2#}*!8
+
+Generate another password? (y/n): Stay secure! Goodbye.
