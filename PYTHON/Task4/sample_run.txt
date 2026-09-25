@@ -1,0 +1,29 @@
+========================================
+        ROCK - PAPER - SCISSORS         
+========================================
+Choose rock, paper, or scissors: 
+You chose:      rock
+Computer chose: paper
+Computer wins this round!
+
+Score -> You: 0  |  Computer: 1
+
+Play another round? (y/n): Choose rock, paper, or scissors: 
+You chose:      paper
+Computer chose: rock
+You win this round!
+
+Score -> You: 1  |  Computer: 1
+
+Play another round? (y/n): Choose rock, paper, or scissors: 
+You chose:      scissors
+Computer chose: rock
+Computer wins this round!
+
+Score -> You: 1  |  Computer: 2
+
+Play another round? (y/n): 
+Final Score:
+  You: 1  |  Computer: 2
+Computer won overall. Better luck next time!
+Thanks for playing!

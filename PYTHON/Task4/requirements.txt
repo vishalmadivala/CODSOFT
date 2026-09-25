@@ -1,0 +1,3 @@
+# Task 4 - Rock-Paper-Scissors Game
+# No external dependencies required.
+# Uses only Python's standard library (random).
